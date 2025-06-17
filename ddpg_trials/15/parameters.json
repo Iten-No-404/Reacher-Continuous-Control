@@ -1,0 +1,13 @@
+{
+    "n_episodes": 500,
+    "max_t": 1000,
+    "BUFFER_SIZE": 1000000,
+    "BATCH_SIZE": 128,
+    "GAMMA": 0.99,
+    "TAU": 0.001,
+    "LR_ACTOR": 0.0001,
+    "LR_CRITIC": 0.001,
+    "WEIGHT_DECAY": 0,
+    "learn_every": 20,
+    "learn_iterations": 10
+}
